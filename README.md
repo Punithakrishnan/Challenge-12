@@ -67,5 +67,17 @@ The code for the bar chart is extremely simple, with no manipulation at all. It 
 
 <img width="598" alt="Screen Shot 2022-06-06 at 4 01 18 PM" src="https://user-images.githubusercontent.com/98849217/172238630-5e91076f-e9cb-4ddd-b20d-fa4704d65bfb.png">
 
+### web page customization 
+
+---
+##### image 1
+---
+<img width="1169" alt="Screen Shot 2022-06-06 at 4 06 22 PM" src="https://user-images.githubusercontent.com/98849217/172239400-0c169f49-7511-48e1-94bb-925658e83255.png">
+
+##### image 2
+---
+
+<img width="1299" alt="Screen Shot 2022-06-06 at 4 06 47 PM" src="https://user-images.githubusercontent.com/98849217/172239474-0ea7f1ba-3e71-4caa-b925-7bd9963df240.png">
+
 
 
